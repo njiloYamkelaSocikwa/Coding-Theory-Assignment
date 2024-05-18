@@ -1,5 +1,11 @@
 import java.util.ArrayList;
 
+/**
+ * Author - 26403919
+ * Coding Theory Assignment
+ * Stellenbosch University
+ * This Class Creates the table of codewords of base 3 numbers
+ */
 public class CodeTable {
 
     /**
